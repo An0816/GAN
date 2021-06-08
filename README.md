@@ -1,1 +1,1 @@
-# GAN
+# Vanilla GAN
